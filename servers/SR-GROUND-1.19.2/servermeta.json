@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/helios/SR%20GROUND/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "SR그라운드",
+    "description": "SR-GROUND Running Minecraft 1.19.2 (Forge v43.3.8)",
+    "icon": "https://raw.githubusercontent.com/SRRMFKDNSEM/SR-GROUND-distro/main/LOGO.png",
+    "address": "sr그라운드.서버.한국",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "43.3.8"
+  },
+  "untrackedFiles": []
+}
