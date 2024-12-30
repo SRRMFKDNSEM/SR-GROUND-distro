@@ -12,7 +12,7 @@
       "name": "SR그라운드",
       "description": "SR-GROUND Running Minecraft 1.19.2 (Forge v43.3.8)",
       "icon": "https://raw.githubusercontent.com/SRRMFKDNSEM/SR-GROUND-distro/main/LOGO.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "sr그라운드.서버.한국",
       "minecraftVersion": "1.19.2",
       "discord": {
@@ -460,6 +460,16 @@
             "size": 3634,
             "url": "https://raw.githubusercontent.com/SRRMFKDNSEM/SR-GROUND-distro/main/servers/SR-GROUND-1.19.2/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 14,
+            "url": "https://raw.githubusercontent.com/SRRMFKDNSEM/SR-GROUND-distro/main/servers/SR-GROUND-1.19.2/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
           }
         },
         {
